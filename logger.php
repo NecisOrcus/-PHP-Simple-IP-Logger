@@ -1,4 +1,5 @@
 <?php
+header('Loaction: /index.html');
 
 $user_agent     =   $_SERVER['HTTP_USER_AGENT'];
 // Getting OS Name
